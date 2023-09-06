@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.dllimporttest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\StuartM\\Downloads\\MscProject-main\\MscProject-main\\MSC Project\\ForceD unity demo\\Unity-Delta3-Integration-main\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DLLImportTest [Testing]"
+        }
+      }
+    }
+  ]
+}
